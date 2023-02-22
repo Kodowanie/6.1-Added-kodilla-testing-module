@@ -1,0 +1,3 @@
+rootProject.name = 'M_6.1._Utworzenie_modulu_kodilla-testing'
+include 'module-testing'
+
